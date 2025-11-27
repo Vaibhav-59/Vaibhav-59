@@ -1,82 +1,125 @@
-<h1>Vaibhav Vataliya <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Vaibhav-59&style=flat-square"></h1>
+<!-- ──────────────────────────────── -->
+<!-- 🔥 PROFESSIONAL ANIMATED BANNER -->
+<!-- ──────────────────────────────── -->
 
-## About Me
-
-<p align="justify">
-I am a MERN Stack Developer with hands-on experience in building full-stack applications, real-time systems, and AI-powered tools.  
-I enjoy turning complex ideas into scalable, production-ready solutions using JavaScript, React, Node.js, MongoDB, and modern cloud services.  
-My goal is to build meaningful products that help users and solve real problems. I love challenges, learning new technologies, and improving every day.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vaibhav+Vataliya!;MERN+Stack+Developer;AI+%7C+Node.js+%7C+React+%7C+MongoDB;Full-Stack+Engineer+%7C+Problem+Solver;Welcome+to+my+GitHub+Profile+🔥" />
 </p>
 
-<p align="justify">
-I am currently pursuing my BE in Computer Science & Engineering from MSU Vadodara.  
-Over time, I have developed strong skills in backend engineering, API design, authentication, real-time systems, and modern frontend development.  
-I also enjoy exploring AI integrations, automation, data modeling, and secure architecture design.
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
 </p>
 
-## My Skills
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaibhav-59&layout=compact&card_width=275&theme=github_dark&langs_count=10" align="right" width="295" />
-
-### Languages & Frameworks I Work With
-<a><img alt="C++" title="C++" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" height="42"></a>
-<a><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" height="42"></a>
-<a><img alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" height="42"></a>
-<a><img alt="ReactJS" title="ReactJS" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" height="42"></a>
-<a><img alt="ExpressJS" title="ExpressJS" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" height="42"></a>
-<a><img alt="MongoDB" title="MongoDB" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" height="42"></a>
-<a><img alt="SQL" title="SQL" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" height="42"></a>
-<a><img alt="REST API" title="REST API" src="https://raw.githubusercontent.com/github/explore/master/topics/api/api.png" height="42"></a>
-
-### Tools & Platforms
-<a><img alt="Git" title="Git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" height="42"></a>
-<a><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" height="42"></a>
-<a><img alt="Postman" title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="42"></a>
-<a><img alt="Redis" title="Redis" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png" height="42"></a>
-<a><img alt="Cloudinary" title="Cloudinary" src="https://avatars.githubusercontent.com/u/858307?s=200&v=4" height="42"></a>
-<a><img alt="Mapbox" title="Mapbox" src="https://avatars.githubusercontent.com/u/600935?s=200&v=4" height="42"></a>
+<h1 align="center">🚀 Full-Stack Developer | AI Integrator | Cloud Enthusiast</h1>
 
 ---
 
-## Projects
+## 🌌 **About Me**
 
-### 🚀 CodeVerse – AI Collaborative Coding Platform  
-(MERN, AI API, Redis, Socket.IO, JWT Auth)  
-An AI-powered coding platform with real-time collaboration, role-based authentication, Gemini API integration, Redis caching, and a syntax-highlighted code editor.  
-• Real-time communication using Socket.IO  
-• Redis for high-speed caching  
-• Secure JWT roles & access control  
-• AI prompts + code suggestions integrated :contentReference[oaicite:1]{index=1}
+<p align="justify">
+I am a MERN Stack Developer with a passion for building scalable applications, AI-powered tools, modern UI/UX, and real-world technical solutions.
+I love exploring new technologies, solving problems creatively, and building systems that actually impact users.
+</p>
 
 ---
 
-### 🏡 WonderHome – Accommodation Booking App  
-(Node.js, Express, MongoDB, Cloudinary, Mapbox, EJS)  
-Airbnb-style application with dynamic listings, reviews, CRUD, Joi validation, secure authentication, Mapbox maps, and Cloudinary media storage.  
-• Interactive map-based listings  
-• Full server-side rendering  
-• Image uploads, reviews & secure sessions :contentReference[oaicite:2]{index=2}
+## ⚡ **Social Profiles**
+
+<p align="center">
+  <a href="https://github.com/Vaibhav-59">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/vaibhav-vataliya-6330bb253/">
+    <img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/vaibhavvataliya123/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/VaibhavVataliya5">
+    <img src="https://img.shields.io/badge/GFG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+  </a>
+  <a href="https://www.codechef.com/users/Vai100">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
+  </a>
+</p>
 
 ---
 
-### 🧠 AI Tool for Company Secretary  
-(MERN, AI APIs, JWT + OAuth, SMTP)  
-An AI-powered automation dashboard for compliance tracking, legal research, audit support, and automated workflows.  
-• Compliance calendar & reminders  
-• AI-based legal document generation  
-• OAuth + JWT + SMTP email workflows :contentReference[oaicite:3]{index=3}
+## 🧠 **Tech Stack (Dark Neon)**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,redis,postman,git,github,aws,vercel&theme=dark" />
+</p>
 
 ---
 
-## GitHub Stats
+# 🔥 **GitHub Stats (Modern Neon Theme)**
 
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-59&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-59&theme=radical&fire=DD2727&ring=00F0FF&currStreakLabel=00F0FF" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-59&show_icons=true&theme=radical&icon_color=00F0FF&title_color=00F0FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-59&layout=compact&theme=radical&title_color=00F0FF" />
+</p>
 
 ---
 
-## Show Your Support
+# 📊 **3D Activity Graph (Dynamic)**
 
-⭐ Follow me on GitHub if you like my work, or connect with me on LinkedIn!  
-📧 Email: **vaibhavvataliya3538@gmail.com**  
-🔗 GitHub: **Vaibhav-59**  
-🔗 LinkedIn: [View Profile](https://www.linkedin.com/in/vaibhav-vataliya-6330bb253/)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-59&bg_color=000000&color=00F0FF&line=BB00FF&point=00E0FF&area=true&hide_border=true" />
+</p>
+
+---
+
+# 🚀 **Activity Timeline (Auto-updating)**
+
+<!--START_SECTION:activity-->
+1. ⬆️ Pushed new commits to various repositories  
+2. ⭐ Starred repositories related to MERN & AI  
+3. 🧩 Worked on CodeVerse & AI Tool  
+4. 🛠 Fixed bugs, improved UI, added new features  
+<!--END_SECTION:activity-->
+
+---
+
+# 🧩 **Top Projects**
+
+<p align="center">
+  <a href="https://github.com/Vaibhav-59/CodeVerse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav-59&repo=CodeVerse&theme=radical&title_color=00F0FF" />
+  </a>
+  <a href="https://github.com/Vaibhav-59/WanderHome">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav-59&repo=WanderHome&theme=radical&title_color=00F0FF" />
+  </a>
+  <a href="https://github.com/parthgopa/ai4cs2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthgopa&repo=ai4cs2&theme=radical&title_color=00F0FF" />
+  </a>
+</p>
+
+---
+
+# 🎯 **My Goals**
+
+- 🔥 Build AI-powered production-level applications  
+- 🚀 Contribute to open-source & developer tools  
+- 🧠 Strengthen system design & backend architecture  
+- 🎨 Build premium UI/UX MERN projects  
+- 🌐 Deploy scalable cloud applications (AWS, Vercel)  
+
+---
+
+# 🤝 **Let’s Connect**
+
+<p align="center">
+  <a href="mailto:vaibhavvataliya3538@gmail.com"><img src="https://img.shields.io/badge/Email-FF006E?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Vaibhav-59"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vaibhav-vataliya-6330bb253/"><img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
+</p>
+
