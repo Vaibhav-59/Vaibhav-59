@@ -43,7 +43,7 @@ I love exploring new technologies, solving problems creatively, and building sys
 
 ---
 
-## 🧠 **Tech Stack (Dark Neon)**
+## 🧠 **Tech Stack**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,redis,postman,git,github,aws,vercel&theme=dark" />
@@ -51,7 +51,7 @@ I love exploring new technologies, solving problems creatively, and building sys
 
 ---
 
-# 🔥 **GitHub Stats (Modern Neon Theme)**
+# 🔥 **GitHub Stats**
 
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-59&theme=radical&fire=DD2727&ring=00F0FF&currStreakLabel=00F0FF" />
@@ -64,7 +64,7 @@ I love exploring new technologies, solving problems creatively, and building sys
 
 ---
 
-# 📊 **3D Activity Graph (Dynamic)**
+# 📊 **3D Activity Graph**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-59&bg_color=000000&color=00F0FF&line=BB00FF&point=00E0FF&area=true&hide_border=true" />
@@ -72,7 +72,7 @@ I love exploring new technologies, solving problems creatively, and building sys
 
 ---
 
-# 🚀 **Activity Timeline (Auto-updating)**
+# 🚀 **Activity Timeline**
 
 <!--START_SECTION:activity-->
 1. ⬆️ Pushed new commits to various repositories  
