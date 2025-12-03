@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vaibhav+Vataliya!;MERN+Stack+Developer;AI+%7C+Node.js+%7C+React+%7C+MongoDB;Full-Stack+Engineer+%7C+Problem+Solver;Welcome+to+my+GitHub+Profile+🔥" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
-</p>
+
 
 <h1 align="center">🚀 Full-Stack Developer | AI Integrator </h1>
 
