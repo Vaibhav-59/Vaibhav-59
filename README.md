@@ -10,7 +10,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
 </p>
 
-<h1 align="center">🚀 Full-Stack Developer | AI Integrator | Cloud Enthusiast</h1>
+<h1 align="center">🚀 Full-Stack Developer | AI Integrator </h1>
 
 ---
 
