@@ -86,14 +86,17 @@ I love exploring new technologies, solving problems creatively, and building sys
 # 🧩 **Top Projects**
 
 <p align="center">
+  <a href="https://github.com/Vaibhav-59/SkillBarter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthgopa&repo=ai4cs2&theme=radical&title_color=00F0FF" />
+  </a>
+  <a href="https://github.com/parthgopa/ai4cs2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthgopa&repo=ai4cs2&theme=radical&title_color=00F0FF" />
+  </a>
   <a href="https://github.com/Vaibhav-59/CodeVerse">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav-59&repo=CodeVerse&theme=radical&title_color=00F0FF" />
   </a>
   <a href="https://github.com/Vaibhav-59/WanderHome">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav-59&repo=WanderHome&theme=radical&title_color=00F0FF" />
-  </a>
-  <a href="https://github.com/parthgopa/ai4cs2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthgopa&repo=ai4cs2&theme=radical&title_color=00F0FF" />
   </a>
 </p>
 
