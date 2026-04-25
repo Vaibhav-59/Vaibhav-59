@@ -87,7 +87,7 @@ I love exploring new technologies, solving problems creatively, and building sys
 
 <p align="center">
   <a href="https://github.com/Vaibhav-59/SkillBarter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthgopa&repo=ai4cs2&theme=radical&title_color=00F0FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav-59&repo=SkillBarter&theme=radical&title_color=00F0FF" />
   </a>
   <a href="https://github.com/parthgopa/ai4cs2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthgopa&repo=ai4cs2&theme=radical&title_color=00F0FF" />
